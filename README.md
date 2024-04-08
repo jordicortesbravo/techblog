@@ -2,11 +2,11 @@
 Blog personal sobre tecnología
 
 - Arquitectura
-    - Microservicios
+    - Microservices
     - Sharding
     - Event Sourcing
     - CQRS
-    - Por capas
+    - Layered
     - master - slave
     - Leader election
     - Publisher - Subscriber
@@ -41,6 +41,20 @@ Blog personal sobre tecnología
   - Algoritmos de divide y vencerás
   - Lenguages, gramáticas y autómatas
   - Teoría de la computación
+    - Máquinas de Turing
+    - Decidibilidad
+    - Complejidad computacional
+    - Clases de complejidad
+    - Problemas NP
+    - Problemas NP-completos
+    - Problemas NP-duros
+    - Problemas PSPACE
+    - Problemas PSPACE-completos
+    - Problemas PSPACE-duros
+    - Problemas EXP
+    - Problemas EXP-completos
+    - Problemas EXP-duros
+  
   - https://jutge.org/
   
 - Ingeniería de software
@@ -62,6 +76,7 @@ Blog personal sobre tecnología
   - Teoría de concurrencia
   - Teoría de paralelismo
   - Teoría de sistemas distribuidos
+  - Algoritmos concurrentes
   - Transacciones distribuidas
   - Concurrencia y paralelismo en Java
     - Threads
@@ -73,6 +88,7 @@ Blog personal sobre tecnología
     - Deadlocks
     - Starvation
   - Corutinas
+  - Erlang, Haskell, Java, Kotlin
 
 - Infraestructura como código
   - Docker
@@ -83,5 +99,17 @@ Blog personal sobre tecnología
   - Niveles de isolation en BDD
   - Propiedades ACID
   - Teoria de BDD relacionales
+  - SQL
+    - Inner join
+    - Outer join
+    - Left join
+    - Right join
   - Transaction locking
   - Tipos de estructuras de datos en índices
+  - Bases de datos NoSQL
+  - Sharding
+  - Replicación
+  - Particionamiento
+  - Consistencia
+  - Escalabilidad
+  
